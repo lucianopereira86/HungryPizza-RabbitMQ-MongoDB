@@ -1,0 +1,17 @@
+HungryPizza.Domain/bin
+HungryPizza.Domain/obj
+HungryPizza.Infra.CrossCutting/bin
+HungryPizza.Infra.CrossCutting/obj
+HungryPizza.Infra.Data/bin
+HungryPizza.Infra.Data/obj
+HungryPizza.Infra.Data.MongoDB/bin
+HungryPizza.Infra.Data.MongoDB/obj
+HungryPizza.Infra.Messenger/bin
+HungryPizza.Infra.Messenger/obj
+HungryPizza.Infra.Shared/bin
+HungryPizza.Infra.Shared/obj
+HungryPizza.Tests/bin
+HungryPizza.Tests/obj
+HungryPizza.WebAPI/.vs
+HungryPizza.WebAPI/bin
+HungryPizza.WebAPI/obj

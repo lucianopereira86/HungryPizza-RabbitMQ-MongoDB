@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HungryPizza.Infra.Data\HungryPizza.Infra.Data.MySQL.csproj" />
+    <ProjectReference Include="..\HungryPizza.Infra.Messenger\HungryPizza.Infra.Messenger.csproj" />
+  </ItemGroup>
+
+</Project>
